@@ -27,18 +27,38 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there 👋
 
--I’m a Computer Science graduate with a growing passion for Deep Learning, Computer Vision, and Robotics. Right now, I’m working as a (voluntary) Research Assistant at AMIRLab, where I’m fortunate to be advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I’ve been involved in some really exciting research around DL and CV, and even got to contribute to a few projects and papers (two published so far, others under review 🤞).
+Hi there 👋
 
--I’m also deeply thankful to [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), my research mentor, who’s played a big role in shaping my journey in this field.
+I studied Computer Science and have been working on Deep Learning, Computer Vision, and Robotics-related problems. Right now, I’m working as a Research Assistant at AMIRLab, where I’m supervised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). 
 
--Alongside research, I’m revisiting and sharpening my core concepts in Machine Learning, Deep Learning, and Computer Vision — always trying to level up my understanding.
+I'm also mentored by [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has played a big role in helping me grow as a researcher and build a solid understanding of the field.
 
--In my free time, I like to share what I learn through blogs and YouTube videos — sometimes educational, sometimes just random fun stuff 😄.
+Lately, I’ve been going back to the basics — revising and re-learning the core ideas behind ML, DL, and CV. I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice.
+
+Alongside research, I help my father manage his business — mainly handling finances and keeping track of inventory. It’s unrelated to tech, but it’s taught me a lot about staying organized and thinking clearly when solving practical problems.
+
+I also enjoy documenting what I’m learning or working on — sometimes through code, sometimes in videos or blog posts.
 🎥 YouTube
 
-Apart from all this, I also help my dad run his business — I manage the finances, keep track of inventory, and try to stay on top of things. It’s not directly related to tech, but it’s taught me a lot about responsibility, organization, and real-world problem-solving.
+When I’m not doing any of that, I’m probably playing video games, planning my next trip (been to 5 countries so far), or just taking time to learn about how different people live and think.
+
+
+
+
+
+
+
+Hey there 👋
+
+I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision**, and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab] (https://amirl.org/), where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice. I’m also deeply thankful to [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my),who has been a big influence on my growth as a researcher and helped me take things more seriously.
+
+
+-These days, I’m spending time reviewing core ML, DL, and CV concepts — not just to understand them better, but to figure out how to apply them in practical, meaningful ways.
+
+-In my free time, I like to share my learning journey through blogs and YouTube videos 🎥. Sometimes it's about research, sometimes coding tips — and yes, sometimes just random fun stuff too 😄.
+
+Apart from all this, I also help my dad run his business — I manage the finances, keep track of inventory, and try to stay on top of things. It’s unrelated to tech, but it’s taught me a lot about staying organized and thinking clearly when solving practical problems.
 
 Oh — and when I’m not working or learning, I’m probably playing video games, planning my next trip (I've traveled to 5 countries so far!), or just enjoying discovering new cultures 🌍.
 
