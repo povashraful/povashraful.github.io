@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  email- ashrafulhossainwork@gmail.com
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Hey, that's me with a big smile on my graduation day 😀 </p>
-    <p>Do remember to check out more Blogs</p>
+    <p>Do remember to check out more [Blogs](https://povashraful.github.io/blog/)</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,30 +28,9 @@ latest_posts:
 ---
 
 
-Hi there 👋
-
-I studied Computer Science and have been working on Deep Learning, Computer Vision, and Robotics-related problems. Right now, I’m working as a Research Assistant at AMIRLab, where I’m supervised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). 
-
-I'm also mentored by [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has played a big role in helping me grow as a researcher and build a solid understanding of the field.
-
-Lately, I’ve been going back to the basics — revising and re-learning the core ideas behind ML, DL, and CV. I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice.
-
-Alongside research, I help my father manage his business — mainly handling finances and keeping track of inventory. It’s unrelated to tech, but it’s taught me a lot about staying organized and thinking clearly when solving practical problems.
-
-I also enjoy documenting what I’m learning or working on — sometimes through code, sometimes in videos or blog posts.
-🎥 YouTube
-
-When I’m not doing any of that, I’m probably playing video games, planning my next trip (been to 5 countries so far), or just taking time to learn about how different people live and think.
-
-
-
-
-
-
-
 Hey there 👋
 
-I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision**, and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab] (https://amirl.org/), where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice. I’m also deeply thankful to [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my),who has been a big influence on my growth as a researcher and helped me take things more seriously.
+I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision**, and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab] (https://amirl.org/), where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I am mainly tasked with classification, segmentation related stuff. I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice. I’m also deeply thankful to [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has been a big influence on my growth as a researcher and helped me take things more seriously. 
 
 
 -These days, I’m spending time reviewing core ML, DL, and CV concepts — not just to understand them better, but to figure out how to apply them in practical, meaningful ways.
