@@ -9,9 +9,9 @@ profile:
   image: grad.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>do remember to check out more blogs! (https://povashraful.github.io/blog/)</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Hey, that's me with a big smile on my graduation day 😀
+    <p>do remember to check out more Blogs(https://povashraful.github.io/blog/)</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
