@@ -30,14 +30,14 @@ latest_posts:
 
 Hey there 👋
 
-I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision**, and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab] (https://amirl.org/), where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I am mainly tasked with classification, segmentation related stuff. I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice. I’m also deeply thankful to [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has been a big influence on my growth as a researcher and helped me take things more seriously. 
+I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision**, and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab](https://amirl.org/) where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I am mainly tasked with classification, segmentation related stuff. I prefer working on things that connect theory with real-world application. I like building stuff, testing ideas, and seeing how concepts actually play out when used in practice. I’m also deeply thankful to [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has been a big influence on my growth as a researcher and helped me take things more seriously. 
 
 
--These days, I’m spending time reviewing core ML, DL, and CV concepts — not just to understand them better, but to figure out how to apply them in practical, meaningful ways.
+-These days, I’m spending time reviewing core ML, DL, and CV concepts, not just to understand them better, but to figure out how to apply them in practical, meaningful ways.
 
--In my free time, I like to share my learning journey through blogs and YouTube videos 🎥. Sometimes it's about research, sometimes coding tips — and yes, sometimes just random fun stuff too 😄.
+-In my free time, I like to share my learning journey through blogs and YouTube videos 🎥. Sometimes it's about research, sometimes coding tips and yes, sometimes just random fun stuff too 😄.
 
-Apart from all this, I also help my dad run his business — I manage the finances, keep track of inventory, and try to stay on top of things. It’s unrelated to tech, but it’s taught me a lot about staying organized and thinking clearly when solving practical problems.
+Apart from all this, I also help my dad run his business. I manage the finances, keep track of inventory. It’s unrelated to tech, but it’s taught me a lot about staying organized and thinking clearly when solving practical problems. This is a big part of my daily life at the moment.
 
 Oh — and when I’m not working or learning, I’m probably playing video games, planning my next trip (I've traveled to 5 countries so far!), or just enjoying discovering new cultures 🌍.
 
