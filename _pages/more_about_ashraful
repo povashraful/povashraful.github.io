@@ -1,8 +1,9 @@
 ---
 layout: more_about_ashraful
 title: More about Myself
-permalink: /
-subtitle:  email- ashrafulhossainwork@gmail.com
+permalink: /more_about_ashraful/
+nav: true
+nav_order: 10
 
 
 
