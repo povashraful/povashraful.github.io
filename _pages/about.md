@@ -29,7 +29,7 @@ latest_posts:
 
 Hey there 👋 - Welcome!
 
-My name is Ashraful. I am a full time engineer(CS) and a part time accountant. I love spending time building things. I also love travelling (recently grew interest due to travelling to different countries with my brother).
+My name is Ashraful. I am a full time engineer(CS) and a part time accountant. I love building things. I also love travelling (recently grew interest due to travelling to different countries with my brother).
 
 If you ask me where do I see myself in the future- My honest answer is, I don't really know. I love spending time with my loved ones. So maybe I'll be living in a farm far far away from the materialistic noises. 
 
@@ -44,10 +44,10 @@ I'll work hard untill I do something credible. Something that will put my heart 
 
 
 
-If you are interested knowing more about me (more academic side of the story) then please scroll down further.
+If you are interested knowing more about me (more academic side of the story) then please scroll further down (Thank You)
 
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ##  ACADEMIC PROFILE
 I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision** and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab](https://amirl.org/) where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I am mainly tasked with classification, segmentation related research projects. I prefer working on real-world applications. I like building stuff, testing ideas and seeing how concepts actually play out when used in practice. I am also mentored by [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my). He  has been a big influence on my growth as a researcher and been guiding me since day 1.
