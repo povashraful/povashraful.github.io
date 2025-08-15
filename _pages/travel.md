@@ -9,10 +9,10 @@ display_categories: [fun, random, e-sports]
 horizontal: false
 ---
 
-<!-- pages/travel.md -->
-<div class="travel">
+<!-- pages/project.md -->
+<div class="project">
 {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized travel -->
+  <!-- Display categorized project -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
@@ -39,7 +39,7 @@ horizontal: false
 
 {% else %}
 
-<!-- Display travel without categories -->
+<!-- Display project without categories -->
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
