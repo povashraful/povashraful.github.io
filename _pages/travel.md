@@ -5,7 +5,7 @@ permalink: /travel/
 description: A collection of my travel experience, from my perspective.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [fun, random, e-sports]
 horizontal: false
 ---
 
