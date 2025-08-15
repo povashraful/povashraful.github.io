@@ -4,20 +4,20 @@ title: Country No. 1
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: travel
+category: work
 related_publications: true
 ---
 
 Every country has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-To give your travel page a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
-    title: travel
-    description: a travel with a background image
+    title: project
+    description: a project with a background image
     img: /assets/img/12.jpg
     ---
 
@@ -45,8 +45,8 @@ To give your travel page a background in the portfolio page, just add the img ta
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your travel before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your travel, and then... you reveal its glory in the next row of images.
+Say you wanted to write a bit about your work before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your work, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
