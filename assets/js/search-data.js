@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-travel",
           title: "travel",
-          description: "",
+          description: "A collection of my travel experience, from my perspective.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/travel/index.html";
+            window.location.href = "/travel/";
           },
         },{id: "nav-blog",
           title: "blog",
