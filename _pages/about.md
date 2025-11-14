@@ -37,7 +37,7 @@ If you ask me where do I see myself in the future- My honest answer is, I don't 
 I believe we all are the same in the eyes of God. Just like King Baldwin IV said in the movie "Kingdom of Jeruselam" - 
 
 ```text
-When you stand before God, you cannot say ' But I was told by others to do thus,' or that 'virtue was not convenient at the time.' This will not suffice. Remeber that.". 
+When you stand before God, you cannot say ' But I was told by others to do thus,' or that 'virtue was not convenient at the time.' This will not suffice. Remember that.". 
 ```
 
 I'll work hard untill I do something credible. Something that will put my heart and soul in peace and then I'll rest my case. So yeah! That's all about me. Hope I didn't bored you haha !
