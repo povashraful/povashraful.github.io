@@ -497,6 +497,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/povashraful", "_blank");
         },
       },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@povashraful (youtube.com/@povashraful)", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
