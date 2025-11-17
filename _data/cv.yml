@@ -3,16 +3,12 @@
   contents:
     - name: Full Name
       value: Md Ashraful
-    # - name: Date of Birth
-    #   value: 14th March 1879
     - name: Languages
-      value: Bengali, English, Hindi/Urdu, German(started learning)
+      value: Bengali, English, Hindi/Urdu, German (started learning)
 
 - title: Education
   type: time_table
   contents:
     - title: B.Sc. Engg. in Computer Science & Engineering
-      institution: Bangladesh Univerity of Business and Technology
+      institution: Bangladesh University of Business and Technology
       year: 2019
-   
-
