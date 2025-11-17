@@ -1,14 +1,128 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Md Ashraful
-    - name: Languages
-      value: Bengali, English, Hindi/Urdu, German (started learning)
+# ===============================
+# AI-FOLIO CV CONFIGURATION FILE
+# ===============================
 
-- title: Education
-  type: time_table
-  contents:
-    - title: B.Sc. Engg. in Computer Science & Engineering
-      institution: Bangladesh University of Business and Technology
-      year: 2019
+basics:
+  name: Md Ashraful
+  label: Computer Vision & Autonomous Systems
+  email: your@email.com
+  phone: "+8801XXXXXXXX"
+  url: https://yourwebsite.com
+  summary: >
+    Research Assistant specializing in Computer Vision, Deep Learning,
+    Robotics, and Autonomous Systems. Passionate about building intelligent
+    systems and working with real-world traffic datasets.
+
+# -------------------------------
+# WORK EXPERIENCE
+# -------------------------------
+work:
+  - company: AMIR Lab
+    position: Research Assistant
+    start_date: "2024-01"
+    end_date: ""
+    url: ""
+    summary: >
+      Working on computer vision, traffic dataset analysis, and deep learning models
+      including detection and segmentation tasks.
+
+# -------------------------------
+# EDUCATION
+# -------------------------------
+education:
+  - institution: Bangladesh University of Business and Technology (BUBT)
+    degree: B.Sc. Engg. in Computer Science & Engineering
+    start_date: "2019"
+    end_date: "2023"
+    url: ""
+    summary: >
+      Graduated with CGPA 3.45/4.0. Completed coursework in Data Structures,
+      Algorithms, Machine Learning, Deep Learning, and Robotics.
+
+# -------------------------------
+# SKILLS
+# -------------------------------
+skills:
+  - name: Programming
+    keywords:
+      - Python
+      - C++
+      - MATLAB
+
+  - name: Deep Learning Frameworks
+    keywords:
+      - PyTorch
+      - TensorFlow
+      - Keras
+
+  - name: Computer Vision
+    keywords:
+      - Detection
+      - Segmentation
+      - Transformers
+      - OpenCV
+
+  - name: Tools
+    keywords:
+      - Git
+      - Linux
+      - Jupyter
+      - Docker
+
+# -------------------------------
+# LANGUAGES
+# -------------------------------
+languages:
+  - language: Bengali
+    fluency: Native
+
+  - language: English
+    fluency: Professional
+
+  - language: Hindi/Urdu
+    fluency: Conversational
+
+  - language: German
+    fluency: Beginner (currently learning)
+
+# -------------------------------
+# INTERESTS
+# -------------------------------
+interests:
+  - Machine Learning
+  - Robotics
+  - Autonomous Vehicles
+  - Computer Vision Research
+
+# -------------------------------
+# PROJECTS
+# -------------------------------
+projects:
+  - name: TrafficVisionBD
+    url: ""
+    summary: >
+      A comprehensive computer vision research project focused on traffic analysis
+      in Bangladesh including object detection, segmentation, and road understanding.
+
+  - name: Cervical Cancer Classification
+    url: ""
+    summary: >
+      Working on a deep learning-based classification model including TL and ensemble
+      learning methods.
+
+# -------------------------------
+# CERTIFICATES (optional)
+# -------------------------------
+certificates:
+  - name: Deep Learning Specialization (Coursera)
+    date: "2023"
+
+# -------------------------------
+# PUBLICATIONS (optional)
+# -------------------------------
+publications: []
+
+# -------------------------------
+# REFERENCES (optional)
+# -------------------------------
+references: []
