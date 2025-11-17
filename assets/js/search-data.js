@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-travel",
           title: "travel",
-          description: "A collection of my travel experience, from my perspective.",
+          description: "A collection of my travel experience, from my perspective !!.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/travel/";
