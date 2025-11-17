@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Travel
+title: travel
 permalink: /travel/
 description: A collection of my travel experience, from my perspective.
 nav: true
