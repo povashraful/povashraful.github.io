@@ -16,3 +16,6 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+I document everything on my Notion Website here - > notion.com
+
+[check it if you are interested]
