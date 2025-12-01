@@ -18,4 +18,6 @@ pagination:
 
 I document everything on my Notion Website here - > notion.com
 
+<img width="802" height="472" alt="Image" src="https://github.com/user-attachments/assets/038d0bfa-2124-4313-aaa5-667b9eaec1cb" />
+
 [check it if you are interested]
