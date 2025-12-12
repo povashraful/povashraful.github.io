@@ -71,7 +71,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@povashraful (youtube.com/@povashraful)", "_blank");
+          window.open("https://youtube.com/@povashraful", "_blank");
         },
       },{
       id: 'light-theme',
