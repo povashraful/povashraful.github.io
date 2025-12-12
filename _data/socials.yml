@@ -47,6 +47,13 @@ linkedin_username:  povashraful
 # x_username: # your X handle
 youtube_id:  povashraful
 # zotero_username: # your zotero username
+custom_social:
+  logo: https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg # Notion logo URL
+  title: Notion
+  url: https://povashraful.notion.site/studies # replace with your Notion URL
+
+
+
 # custom_social: # can be any name here other than the ones already defined above
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
