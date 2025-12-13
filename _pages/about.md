@@ -42,6 +42,9 @@ When you stand before God, you cannot say ' But I was told by others to do thus,
 
 I'll work hard untill I do something credible. Something that will put my heart and soul in peace and then I'll rest my case. So yeah! That's all about me. Hope I didn't bored you haha !
 
+Some of my goals are (keeping some private): <br>
+
+1. Make education accessible for everyone (শিক্ষা হোক উন্মুক্ত) - [Inspired by the Avro Motto - ভাষা হোক উন্মুক্ত]
 
 
 If you are interested knowing more about me (more academic side of the story) then please scroll further down (Thank You)
