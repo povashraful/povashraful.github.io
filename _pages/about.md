@@ -62,7 +62,7 @@ I am  Computer Science and Engineering graduate with an active interest on topic
 
 Apart from all this, I also help my dad run his business. I manage the finances, keep track of inventory. It’s unrelated to tech, but it’s taught me a lot about staying organized and thinking clearly when solving practical problems. This has become a major part of my life and I enjoy every second of it.
 
-Oh — when I’m not working or learning, I’m probably playing video games, planning my next trip (I've traveled to 5 countries so far!). I love interacting with people from different culture, traditions, belief and try to make meaningful conversation to understand them. 
+Oh — when I’m not working or learning, I’m probably playing video games, planning my next trip. I love interacting with people from different culture, traditions, belief and try to make meaningful conversation to understand them. 
 
 
 
