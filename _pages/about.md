@@ -29,7 +29,7 @@ latest_posts:
 
 Hey there 👋 - Welcome!
 
-My name is Ashraful. I am a full time engineer(CS) and a part time accountant. I love building things. I also love travelling (recently grew interest due to travelling to different countries with my brother).
+My name is Ashraful. I am a full time engineer(CS) and a part time accountant. I also love building things. 
 
 If you ask me where do I see myself in the future- My honest answer is, I don't really know. I love spending time with my loved ones. So maybe I'll be living in a farm far far away from the materialistic noises. 
 
