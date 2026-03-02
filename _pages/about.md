@@ -37,7 +37,7 @@ If you ask me where do I see myself in the future- My honest answer is, I don't 
 I believe we all are the same in the eyes of God. Just like King Baldwin IV said in the movie "Kingdom of Jeruselam" - 
 
 ```text
-When you stand before God, you cannot say ' But I was told by others to do thus,' or that 'virtue was not convenient at the time.' This will not suffice. Remember that.". 
+" When you stand before God, you cannot say ' But I was told by others to do thus,' or that 'virtue was not convenient'. At the time this will not suffice. Remember that. " 
 ```
 
 I'll work hard untill I do something credible. Something that will put my heart and soul in peace and then I'll rest my case. So yeah! That's all about me. Hope I didn't bored you haha !
@@ -53,7 +53,11 @@ If you are interested knowing more about me (more academic side of the story) th
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ##  ACADEMIC PROFILE
-I am  Computer Science and Engineering graduate with an active interest on topics related to **Deep learning**, **Computer Vision** and **Robotics**. Right now, I’m working as a (voluntary) Research Assistant at [AMIRLab](https://amirl.org/) where I am advised by [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I am mainly tasked with classification, segmentation related research projects. I prefer working on real-world applications. I like building stuff, testing ideas and seeing how concepts actually play out when used in practice. I am also mentored by [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my). He  has been a big influence on my growth as a researcher and been guiding me since day 1.
+
+
+I’m currently pursuing my Master’s in Autonomous Systems in Germany, with a strong interest in **deep learning** and **computer vision**.
+
+I enjoy building things from scratch, testing ideas, and understanding how concepts behave in real-world scenarios. Previously, I worked as a voluntary Research Assistant at AMIRLab, where I contributed to classification and segmentation-focused projects under the supervision of [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I was also mentored by [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has influenced my approach to research and continuous learning.
 
 
 -These days, I’m spending time reviewing core ML, DL and CV concepts to better prepare myself for the future I vision to live.
