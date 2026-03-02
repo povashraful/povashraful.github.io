@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  email- ashrafulhossainwork@gmail.com
+subtitle:  email- ashrafulworkpov@gmail.com
 
 profile:
   align: right
