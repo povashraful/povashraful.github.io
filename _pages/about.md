@@ -55,7 +55,7 @@ If you are interested knowing more about me (more academic side of the story) th
 ##  ACADEMIC PROFILE
 
 
-I’m currently pursuing my Master’s in Autonomous Systems in Germany, with a strong interest in **deep learning** and **computer vision**.
+I’m currently pursuing my Master’s in Autonomous Systems in Germany, with a strong interest in **deep learning** and **computer vision**. More information about my work can be found on this page : [WEBPAGE](https://sites.google.com/view/povashrafulhossain/about-me)
 
 I enjoy building things from scratch, testing ideas, and understanding how concepts behave in real-world scenarios. Previously, I worked as a voluntary Research Assistant at AMIRLab, where I contributed to classification and segmentation-focused projects under the supervision of [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha#firoz.mridha@aiub.edu). I was also mentored by [SM Nurruzaman Nobel](https://www.linkedin.com/in/iamnobel/?originalSubdomain=my), who has influenced my approach to research and continuous learning.
 
