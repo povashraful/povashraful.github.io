@@ -6,7 +6,7 @@ subtitle:  email- ashrafulworkpov@gmail.com
 
 profile:
   align: right
-  image: grad.jpg
+  image: cgn.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Yo! This is me on my graduation day !😀 </p>
